@@ -1,0 +1,45 @@
+.navi {
+    height: 63px;
+    width: 1365px;
+    background-color:#EEEEEE;
+}
+.container{
+    padding-top: 1px;
+}
+.container {
+    padding-top: 1px;
+    display: flex;
+}
+.box1, .box2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.box1 {
+    width: 33%;
+    height: 74px;
+    background-color: #7EE5DA;
+    margin-left: 77.5px;
+}
+.box2 {
+    width: 18%;
+    height: 74px;
+    background-color: #70CCC2;
+    font-size: small;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+.box3 {
+    width: 38.6%;
+    height: 74px;
+    background-color:#62B3AA;
+    float: left;
+    font-size: small;
+}
+.footer-copyright{
+    font-size: small;
+    padding-top: 5px;
+    text-align: -webkit-center;    
+}
